@@ -1,0 +1,13 @@
+Module 1) Personal Information
+
+	1)Briefly introduce yourself: name, educational background, and current status.(student or professional).
+	hello sir,
+	i am rahul bagada i completed bachlor of computer application from h.n.shukla college and master of computer science from saurashtra university. i am not experienced in it field but i worked as an executive at one of reputed company in rajkot. currently i am learning advance php at tops technology at rajkot.
+
+
+	2)Mention key personality traits, such as your creativity, analytical skills, or passion for
+problem-solving.
+	php is more popular in the market and it is open source i feel it is easy to learn it helps me to learn programming and to develop problem solving skills.
+
+	3)Explain your interest in technology and why you chose this career path.
+	i think it is open source progmamming language and it has more opporatunites so this is the reason i started learning it.
